@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.23521b94.css",
-    "main.js": "/static/js/main.b97a959e.js",
-    "index.html": "/index.html"
+    "main.css": "/jsdao/static/css/main.23521b94.css",
+    "main.js": "/jsdao/static/js/main.b97a959e.js",
+    "index.html": "/jsdao/index.html"
   },
   "entrypoints": [
     "static/css/main.23521b94.css",
