@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/jsdao/static/css/main.3dfbd9fe.css",
-    "main.js": "/jsdao/static/js/main.e59824ca.js",
+    "main.js": "/jsdao/static/js/main.e32f3ba2.js",
     "static/media/logo2.png": "/jsdao/static/media/logo2.7f3be4399a7a090e1e7a.png",
     "index.html": "/jsdao/index.html"
   },
   "entrypoints": [
     "static/css/main.3dfbd9fe.css",
-    "static/js/main.e59824ca.js"
+    "static/js/main.e32f3ba2.js"
   ]
 }
