@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/jsdao/static/css/main.fd785358.css",
-    "main.js": "/jsdao/static/js/main.b68ed1f2.js",
+    "main.css": "/jsdao/static/css/main.70900d57.css",
+    "main.js": "/jsdao/static/js/main.e59824ca.js",
+    "static/media/logo2.png": "/jsdao/static/media/logo2.7f3be4399a7a090e1e7a.png",
     "index.html": "/jsdao/index.html"
   },
   "entrypoints": [
-    "static/css/main.fd785358.css",
-    "static/js/main.b68ed1f2.js"
+    "static/css/main.70900d57.css",
+    "static/js/main.e59824ca.js"
   ]
 }
