@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jsdao/static/css/main.276c254f.css",
-    "main.js": "/jsdao/static/js/main.f839cbea.js",
+    "main.js": "/jsdao/static/js/main.b94fbb5e.js",
     "static/media/logo3.png": "/jsdao/static/media/logo3.f6016b5e0b0185fd4089.png",
     "static/media/ngc292semileft.svg": "/jsdao/static/media/ngc292semileft.f1aa8e74ab7348331006.svg",
     "static/media/ngc292semileft.eot?": "/jsdao/static/media/ngc292semileft.e93f14d7df5bb241f8e2.eot",
@@ -11,6 +11,6 @@
   },
   "entrypoints": [
     "static/css/main.276c254f.css",
-    "static/js/main.f839cbea.js"
+    "static/js/main.b94fbb5e.js"
   ]
 }
